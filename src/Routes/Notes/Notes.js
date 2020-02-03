@@ -66,7 +66,7 @@ export default class NotesContainer extends React.Component {
 			<>
 				<Header>
 					<Title>
-						Nomad Notes
+						Apollo Notes
 						<Link to={'/add'}>
 							<Button>
 								<img src={plus} style={{ width: 25, height: 25 }} />
